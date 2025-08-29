@@ -1,0 +1,45 @@
+Name: Jane Doe
+Email: jane.doe@example.com
+Phone: (123) 456-7890
+LinkedIn: linkedin.com/in/janedoe
+GitHub: github.com/janedoe
+
+Summary:
+Experienced Data Engineer with 7+ years in building scalable data pipelines, data modeling, and deploying cloud-based analytics solutions. Passionate about AI, automation, and clean architecture.
+
+Education:
+B.E. Computer Science, University of Toronto, 2012–2016
+
+Certifications:
+- AWS Certified Data Engineer – Associate
+- Google Cloud Professional Data Engineer
+- Snowflake SnowPro Core
+
+Skills:
+- Languages: Python, SQL, Bash
+- Tools: Airflow, dbt, Spark, Hadoop, Kafka
+- Cloud: AWS (S3, Glue, Athena), GCP (BigQuery, Dataflow)
+- Databases: PostgreSQL, MongoDB, Redshift, Snowflake
+- BI: Power BI, Tableau
+
+Experience:
+
+Senior Data Engineer – TechNova Inc. (Remote)
+Jan 2021 – Present
+- Built real-time streaming pipelines using Kafka and Flink to support personalization services.
+- Migrated legacy ETL to dbt and Airflow, reducing compute costs by 30%.
+- Designed data models in Snowflake and improved query efficiency by 60%.
+- Collaborated with data science teams on training and serving ML models.
+
+Data Engineer – Innotech Analytics
+Jun 2017 – Dec 2020
+- Designed end-to-end ETL workflows using Talend and Python.
+- Created data lake on AWS using S3, Glue, and Athena.
+- Built sales dashboards in Tableau to provide real-time business insights.
+- Led the implementation of GDPR-compliant data anonymization.
+
+Projects:
+- Resume Analyzer using LangChain and OpenAI
+- AI-based Product Recommender using collaborative filtering
+- Sales Forecasting Model using Scikit-learn
+
